@@ -22,12 +22,16 @@
 
 ### Вихідний код розташований у наступних папках:
 
-> frontend/src
-> frontend/src/Components
-> frontend/src/styles
+> [frontend/src](frontend/src)
 
-> backend/src
-> backend/src/main/java/com/ips21/hotelbooking
+> [frontend/src/Components](frontend/src/Components)
+
+> [frontend/src/styles](frontend/src/styles)
+
+
+> [backend/src](backend/src)
+
+> [backend/src/main/java/com/ips21/hotelbooking](backend/src/main/java/com/ips21/hotelbooking)
 
 
 ## Покриття Вимог Лабораторних Робіт
@@ -50,12 +54,20 @@
 
 Звичайно, для створення проекту було використано багато навчальних джерел. Ось основні з них, що допомогли нам написати свій код:
 
+Frontend:
 > [React.JS Documentation](https://ru.legacy.reactjs.org/)
+
 > [Full React Tutorial. Introduction](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&ab_channel=NetNinja)
+
 > [CSS Підручник. Уроки для початківців.](https://w3schoolsua.github.io/css/index.html#gsc.tab=0)
+
 > [Login and Registration React.JS](https://www.youtube.com/watch?v=Y-XW9m8qOis&ab_channel=Tech2etc)
 
+Backend:
 > [Spring Boot Documentation](https://spring.io/projects/spring-boot)
+
 > [Spring Boot Tutorial | Full Course](https://youtu.be/9SGDpanrc8U?si=0VLoCpJqLVcioahD)
+
 > [Spring Boot 3 + Spring Security 6 | JWT Authorization](https://youtu.be/KxqlJblhzfI?si=evxaSSe8fkFDlL1E)
+
 > [Spring Boot Security Tutorial](https://youtu.be/b9O9NI-RJ3o?si=o4QO14YKWFXoQOtM)
